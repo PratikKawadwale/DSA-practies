@@ -1,0 +1,6 @@
+amar    20
+sham   30
+ram      50
+aditya  45
+sanket  34 
+karn      55
